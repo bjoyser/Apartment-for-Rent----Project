@@ -59,11 +59,10 @@ This project applies unsupervised machine learning to segment apartment rental l
 
 ## 📂 Outputs
 - **Trained Models**: `apartment_kmeans_model.pkl`, `apartment_scaler.pkl`
-- **Visualizations**: All key plots as .png files
 - **Jupyter Notebook**: Complete analysis with executable code
 
 ## 📎 How to Run
 1. Clone this repository
 2. Install dependencies:
-   ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn joblib
+3. Run Apartment for rent data.ipynb in Jupyter     
